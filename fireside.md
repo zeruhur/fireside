@@ -11,7 +11,7 @@ I personaggi sono formati da 4 componenti: Un <u>ruolo</u>, i loro <u>talenti</u
 Tutto ciò può essere qualsiasi cosa ma devono adattarsi allo stile della partita che avete concordato di giocare.
 
 ### Ruolo
-Il ruolo di un personaggio descrive il tipo di persona che è, sottointendendo il background, lo status sociale e i talenti. Anche se il vostro ruolo non ha benefici meccanici, vi aiuta in ogni caso a immaginare e interpretare meglio il vostro personaggio. Quando definite il vostro ruolo, usate un aggetto e un sostantivo.
+Il ruolo di un personaggio descrive il tipo di persona che è, sottointendendo il background, lo status sociale e i talenti. Anche se il vostro ruolo non ha benefici meccanici, vi aiuta in ogni caso a immaginare e interpretare meglio il vostro personaggio. Quando definite il vostro ruolo, usate un aggettivo e un sostantivo.
 
 > **Ruolo di esempio**
 > Barbaro brizzolato
